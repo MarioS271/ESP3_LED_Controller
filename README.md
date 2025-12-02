@@ -2,7 +2,6 @@
 
 ESP32_LED_Controller is a lightweight LED controller firmware for the **ESP32-C3** microcontroller. It allows you to control a low-side switched LED strip using an **IRL3103 NMOS transistor** with multiple lighting modes.
 
----
 
 ## Features
 
@@ -16,7 +15,6 @@ ESP32_LED_Controller is a lightweight LED controller firmware for the **ESP32-C3
 * Mode persistence using NVS (Non-Volatile Storage)
 * Modular and extendable task-based architecture
 
----
 
 ## Hardware
 
@@ -25,7 +23,6 @@ ESP32_LED_Controller is a lightweight LED controller firmware for the **ESP32-C3
 * **Transistor:** IRL3103 NMOS for switching the LED strip
 * **Button:** Input for mode selection
 
----
 
 ## Usage
 
@@ -33,7 +30,6 @@ ESP32_LED_Controller is a lightweight LED controller firmware for the **ESP32-C3
 * Press the button to cycle through lighting modes.
 * The current mode is saved in non-volatile storage, so it persists across resets.
 
----
 
 ## Code Structure
 
