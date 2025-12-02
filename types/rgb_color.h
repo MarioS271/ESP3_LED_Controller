@@ -9,7 +9,7 @@
 
 /**
  * @typedef rgb_color_t
- * @brief Type to represent an RGB color with 12-bit depth per channel
+ * @brief Type to represent an RGB color with 16-bit depth per channel
  */
 typedef struct {
     uint16_t red;

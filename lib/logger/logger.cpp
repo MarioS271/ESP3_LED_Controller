@@ -26,6 +26,7 @@ void custom_log(esp_log_level_t level,
         case ESP_LOG_WARN:  log_level_char = 'W'; break;
         case ESP_LOG_INFO:  log_level_char = 'I'; break;
         case ESP_LOG_DEBUG: log_level_char = 'D'; break;
+        case ESP_LOG_VERBOSE: log_level_char = 'V'; break;
         default: log_level_char = '?'; break;
     }
 
