@@ -1,11 +1,11 @@
 /**
- * @file predef_colors.h
+ * @file predef_colors.hpp
  * @authors MarioS271
  */
 
 #pragma once
 
-#include "rgb_color.h"
+#include "rgb_color.hpp"
 
 /**
  * @namespace COLOR

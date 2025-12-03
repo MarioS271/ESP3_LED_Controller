@@ -3,7 +3,7 @@
  * @authors MarioS271
  */
 
-#include "logger.h"
+#include "logger.hpp"
 
 #include <cstdio>
 #include <cstring>

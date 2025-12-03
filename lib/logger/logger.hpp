@@ -1,5 +1,5 @@
 /**
- * @file logger.h
+ * @file logger.hpp
  * @authors MarioS271
  */
 

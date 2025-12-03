@@ -1,12 +1,12 @@
 /**
- * @file error.h
+ * @file error.hpp
  * @authors MarioS271
  */
 
 #pragma once
 
 #include <esp_err.h>
-#include "logger.h"
+#include "logger.hpp"
 
 /**
  * @brief Callback for WARN_CHECK

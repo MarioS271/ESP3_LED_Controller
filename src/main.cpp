@@ -13,28 +13,28 @@
 #include <freertos/FreeRTOS.h>
 
 // Includes
-#include "constants.h"
+#include "constants.hpp"
 
 // Types
-#include "rgb_color.h"
-#include "modes.h"
+#include "rgb_color.hpp"
+#include "modes.hpp"
 
 // Helpers
-#include "delay.h"
-#include "task_delete.h"
-#include "predef_colors.h"
+#include "delay.hpp"
+#include "task_delete.hpp"
+#include "predef_colors.hpp"
 
 // Custom Libraries
-#include "logger.h"
-#include "error.h"
-#include "ledcontroller.h"
+#include "logger.hpp"
+#include "error.hpp"
+#include "ledcontroller.hpp"
 
 // Tasks
-#include "fadeTask.h"
-#include "strobeTask.h"
-#include "fireplaceTask.h"
-#include "policeTask.h"
-#include "strangerThingsTask.h"
+#include "fadeTask.hpp"
+#include "strobeTask.hpp"
+#include "fireplaceTask.hpp"
+#include "policeTask.hpp"
+#include "strangerThingsTask.hpp"
 
 
 extern "C" void app_main() {

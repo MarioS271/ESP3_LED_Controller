@@ -1,5 +1,5 @@
 /**
- * @file ledcontroller.h
+ * @file ledcontroller.hpp
  * @authors MarioS271
  */
 
@@ -7,7 +7,7 @@
 
 #include <driver/gpio.h>
 #include <driver/ledc.h>
-#include "rgb_color.h"
+#include "rgb_color.hpp"
 
 class LedController {
 private:

@@ -3,9 +3,9 @@
  * @authors MarioS271
  */
 
-#include "ledcontroller.h"
+#include "ledcontroller.hpp"
 
-#include "delay.h"
+#include "delay.hpp"
 
 LedController::LedController() {
     // Timer Setup

@@ -1,11 +1,11 @@
 /**
- * @file task_delete.h
+ * @file task_delete.hpp
  * @authors MarioS271
  */
 
 #pragma once
 
-#include "freertos/task.h"
+#include <freertos/task.h>
 
 /**
  * @brief Deletes a FreeRTOS task safely

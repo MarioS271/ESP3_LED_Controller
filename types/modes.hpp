@@ -1,5 +1,5 @@
 /**
- * @file modes.h
+ * @file modes.hpp
  * @authors MarioS271
  */
 

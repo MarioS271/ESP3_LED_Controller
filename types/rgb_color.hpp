@@ -1,5 +1,5 @@
 /**
- * @file rgb_color.h
+ * @file rgb_color.hpp
  * @authors MarioS271
  */
 

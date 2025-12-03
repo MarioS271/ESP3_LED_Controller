@@ -1,13 +1,13 @@
 /**
- * @file strangerThingsTask.h
+ * @file strangerThingsTask.hpp
  * @authors MarioS271
  */
 
 #include <esp_random.h>
-#include "delay.h"
-#include "rgb_color.h"
-#include "predef_colors.h"
-#include "ledcontroller.h"
+#include "delay.hpp"
+#include "rgb_color.hpp"
+#include "predef_colors.hpp"
+#include "ledcontroller.hpp"
 
 void strangerThingsTask(void* params) {
     LedController *leds = static_cast<LedController*>(params);

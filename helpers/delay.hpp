@@ -1,5 +1,5 @@
 /**
- * @file delay.h
+ * @file delay.hpp
  * @authors MarioS271
  */
 
