@@ -39,3 +39,7 @@ ESP32_LED_Controller is a lightweight LED controller firmware for the **ESP32-C3
 * `tasks` – Separate FreeRTOS tasks for each mode
 * `include` – Includes (like constants)
 * `helpers` – Helper Functions like delay, ...
+
+
+<br><hr>
+Licensed under the [MarioS271 Closed License](https://license.marios271.net/closed)
