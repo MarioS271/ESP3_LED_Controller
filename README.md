@@ -41,5 +41,9 @@ ESP32_LED_Controller is a lightweight LED controller firmware for the **ESP32-C3
 * `helpers` – Helper Functions like delay, ...
 
 
+## Schematic
+<img src="Schematic.png"></img>
+
+
 <br><hr><br>
 Licensed under the MIT License
