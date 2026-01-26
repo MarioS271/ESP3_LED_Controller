@@ -46,4 +46,4 @@ ESP32_LED_Controller is a lightweight LED controller firmware for the **ESP32-C3
 
 
 <br><hr><br>
-Licensed under the MIT License
+This project is licensed under the **GNU Affero General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
